@@ -1,0 +1,14 @@
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/bin/Debug/net8.0/Post
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/bin/Debug/net8.0/Post.deps.json
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/bin/Debug/net8.0/Post.runtimeconfig.json
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/bin/Debug/net8.0/Post.dll
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/bin/Debug/net8.0/Post.pdb
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/Post.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/Post.AssemblyInfoInputs.cache
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/Post.AssemblyInfo.cs
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/Post.csproj.CoreCompileInputs.cache
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/Post.dll
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/refint/Post.dll
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/Post.pdb
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/Post.genruntimeconfig.cache
+/Users/igorqueiroz/Desktop/C#/Projetos/Udemy/Post/Post/obj/Debug/net8.0/ref/Post.dll
